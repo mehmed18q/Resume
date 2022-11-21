@@ -11395,6 +11395,7 @@ p.lead {
   border-radius: 100%;
   font-size: 1.5rem;
   margin-right: 1.5rem;
+  margin-top: 6px;
 }
 .social-icons .social-icon:last-child {
   margin-right: 0;
@@ -11455,11 +11456,19 @@ section.resume-section .resume-section-content {
   }
 }
 #csharp{
-  width: 42px;
-  height: 61px;
+  width: 50px;
+  height: 50px;
   opacity: 0.55;
+  border-radius: 25px;
 }
-
+#Django{
+  opacity: 0.55;
+    width: 60px;
+}
 .carousel-item {
   border: 1px #bd5d38 solid;
 }
+/*Multi Lang
+ #page-top{
+  margin-right: 20%;
+} */
